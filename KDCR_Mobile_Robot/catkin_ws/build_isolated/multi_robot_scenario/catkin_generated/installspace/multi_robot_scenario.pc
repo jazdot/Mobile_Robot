@@ -1,0 +1,8 @@
+prefix=/home/richu/KDCR_Mobile_Robot/catkin_ws/install_isolated
+
+Name: multi_robot_scenario
+Description: Description of multi_robot_scenario
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
